@@ -2,6 +2,8 @@
 
 ## About Me
 
+Hi, my name is Michael Farah, I am in my fourth year of Mechatronics and Robotics Engineering at Queens University, and am the former technical captain of Queens Hyperloop Design Team.
+
 ## Resume
 ![3D printed Sphere](MichaelFarahResume.png)
 
