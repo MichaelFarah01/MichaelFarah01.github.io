@@ -3,6 +3,8 @@
 ## About Me
 
 ## Resume
+![3D printed Sphere](MichaelFarahResume.PNG)
+
 
 ## Projects
 
@@ -16,7 +18,12 @@ The transmission relies on two spheres to transfer the rotary motion to the trea
 
 
 #### Gerotor Hydraulic Pump
+![3D printed Sphere](Gerotor.PNG)
 
-#### Non-Atmosphere Cooling system
+This is a gerotor hydraulic pump. The pump was designed to take advantage of Solidworks global variable feature. The size of the chambers, driven gear teeth, and the radius of the overall pump can all be adjusted from the equations tab to finely adjust the flow rate of the pump.
 
 #### Linear Induction Motor Test Stand
+![3D printed Sphere](StandFrontView.PNG)
+![3D printed Sphere](TestStandBackView.PNG)
+
+This test stand was designed for Queen’s Hyperloop Design Team to test the capabilities of the Linear Induction Motor. Using Solidworks, simulations were run to ensure the stand would be able to support the 60 pound weight of the Linear Induction Motor. The tests included shear out failure for the bolt holes and buckling for the face and side plates.
